@@ -12,7 +12,7 @@ Made using react+tailwind ,it uses router-dom for page transition as well as axi
 - External Integration: Axios-based services to communicate with the backend and handle search queries.
 
 **Tech Stack**
-Framework: React 18+ (Vite)
-Styling: Tailwind CSS v4
-Navigation: React Router 7
-API Client: Axios
+- Framework: React 18+ (Vite)
+- Styling: Tailwind CSS v4
+- Navigation: React Router 7
+- API Client: Axios
