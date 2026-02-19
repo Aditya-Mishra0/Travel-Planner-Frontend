@@ -17,4 +17,4 @@ Made using react+tailwind ,it uses router-dom for page transition as well as axi
 - Navigation: React Router 7
 - API Client: Axios
 
-Check assests for screenshot of the working.
+**Note** : Check assests for screenshot of the working.
